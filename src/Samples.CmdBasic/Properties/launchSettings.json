@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Samples.CmdBasic": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
